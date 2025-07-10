@@ -4,7 +4,7 @@ import styled, { keyframes } from "styled-components";
 
 // Weather backgrounds based on main weather condition
 const weatherVideos = {
-  Clear: "/public/clear.mp4",
+  Clear: "/public/Clear.mp4",
   Clouds: "/public/Clouds.mp4",
   Rain: "/public/Rain.mp4",
   Drizzle: "/public/Drizzle.mp4",
@@ -19,7 +19,7 @@ const weatherVideos = {
   Ash: "/bg-clear.jpg",
   Squall: "/bg-clear.jpg",
   Tornado: "/bg-clear.jpg",
-  Default: "/public/clear.mp4",
+  Default: "/public/Clear.mp4",
 };
 
 // Packing tips based on weather
