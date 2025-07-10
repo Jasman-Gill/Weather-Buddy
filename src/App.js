@@ -4,9 +4,9 @@ import styled, { keyframes } from "styled-components";
 
 // Weather backgrounds based on main weather condition
 const weatherVideos = {
-  Clear: "/public/Clear.mp4",
-  Clouds: "/public/Clouds.mp4",
-  Rain: "/public/Rain.mp4",
+  Clear: "/Clear.mp4",
+  Clouds: "/Clouds.mp4",
+  Rain: "/Rain.mp4",
   Drizzle: "/public/Drizzle.mp4",
   Thunderstorm: "/public/Thunderstorm.mp4",
   Snow: "/public/Snow.mp4",
@@ -19,7 +19,7 @@ const weatherVideos = {
   Ash: "/bg-clear.jpg",
   Squall: "/bg-clear.jpg",
   Tornado: "/bg-clear.jpg",
-  Default: "/public/Clear.mp4",
+  Default: "/Clear.mp4",
 };
 
 // Packing tips based on weather
