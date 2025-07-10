@@ -19,7 +19,7 @@ const weatherVideos = {
   Ash: "/bg-clear.jpg",
   Squall: "/bg-clear.jpg",
   Tornado: "/bg-clear.jpg",
-  Default: "/clear.mp4",
+  Default: "public/clear.mp4",
 };
 
 // Packing tips based on weather
