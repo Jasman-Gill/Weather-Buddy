@@ -4,22 +4,22 @@ import styled, { keyframes } from "styled-components";
 
 // Weather backgrounds based on main weather condition
 const weatherVideos = {
-  Clear: "/clear.mp4",
-  Clouds: "/Clouds.mp4",
-  Rain: "/Rain.mp4",
-  Drizzle: "/Drizzle.mp4",
-  Thunderstorm: "/Thunderstorm.mp4",
-  Snow: "/Snow.mp4",
-  Mist: "/Mist.mp4",
-  Smoke: "/Smoke.mp4",
-  Haze: "/bg-clear.jpg", 
-  Dust: "/bg-clear.jpg",
+  Clear: "/public/clear.mp4",
+  Clouds: "/public/Clouds.mp4",
+  Rain: "/public/Rain.mp4",
+  Drizzle: "/public/Drizzle.mp4",
+  Thunderstorm: "/public/Thunderstorm.mp4",
+  Snow: "/public/Snow.mp4",
+  Mist: "/public/Mist.mp4",
+  Smoke: "/public/Smoke.mp4",
+  Haze: "/public/bg-clear.jpg", 
+  Dust: "/public/bg-clear.jpg",
   Fog: "/bg-clear.jpg",
   Sand: "/bg-clear.jpg",
   Ash: "/bg-clear.jpg",
   Squall: "/bg-clear.jpg",
   Tornado: "/bg-clear.jpg",
-  Default: "public/clear.mp4",
+  Default: "/public/clear.mp4",
 };
 
 // Packing tips based on weather
